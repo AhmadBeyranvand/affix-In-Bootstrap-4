@@ -20,5 +20,7 @@ Then declare the variables to be used for affix Function:
 Finally use affix function as described below:
 
     affixBs4(affixVal, tagIDName, classesToAdd, classesToRemove);
+ 
+ ![Graphical Example](http://s8.picofile.com/file/8325470026/show.gif)
+ 
  Good Luck!
-
